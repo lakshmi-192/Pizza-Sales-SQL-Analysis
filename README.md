@@ -12,7 +12,7 @@ Design: Canva (for Data Storytelling)
 📂 Repository Structure
 /data: Contains the raw CSV datasets (orders, pizzas, etc.)
 
-Pizza_Sales_Analysis_Queries.sql: The full technical script containing 15 business queries.
+Pizza_Sales_Analysis_Queries.sql: The full technical script containing 13 business queries.
 
 Pizza_Sales_SQL_Analysis_Lakshmi.pdf: The final presentation with visual insights.
 
